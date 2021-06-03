@@ -2,7 +2,7 @@
 
 All theme is by Snipeur060 alias 💻снайпер060⌨#8273 / By Léo</br>
 
-Better space white (white mod) name of theme betterspace.tar</br>
+Better space white (white mod) betterspace.tar</br>
 ![Better space white](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/betspacewh.png)</br>
 Better space black (black mode) betterspace.tar</br>
 ![Better space black](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/betterspacebla.png)</br>
