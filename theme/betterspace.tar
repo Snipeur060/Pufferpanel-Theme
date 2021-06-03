@@ -1,0 +1,40 @@
+theme.json0000644000000000000000000000067013717033130011552 0ustar  rootroot{
+  "colors": {
+    "light": {
+      "primary": "#07a7e3",
+      "anchor": "#07a7e3",
+      "accent": "#65a5f8",
+      "info": "#2196f3",
+      "success": "#4caf50",
+      "warning": "#fb8c00",
+      "error": "#ff5252"
+    },
+    "dark": {
+      "primary": "#3b8db8",
+      "anchor": "#07a7e3",
+      "accent": "#65a5f8",
+      "info": "#2196f3",
+      "success": "#4caf50",
+      "warning": "#fb8c00",
+      "error": "#ff5252"
+    }
+  }
+}
+theme.css0000644000000000000000000000070214056077146011401 0ustar  rootroot.theme--dark.v-application{
+background:url("https://images2.alphacoders.com/748/748350.png");
+    color: #fff
+}
+.theme--light.v-application{
+    background: url("https://images2.alphacoders.com/748/748350.png") center;
+    color: rgb(255 255 255 / 87%);
+}
+.console{
+    color: #0addff!important;
+}
+.theme--dark.v-navigation-drawer {
+    background-color: #001d23;
+}
+
+.theme--light.v-navigation-drawer{
+    background-color:#07a7e3;
+}
