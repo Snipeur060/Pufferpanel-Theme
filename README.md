@@ -14,4 +14,6 @@ Host style black (black mode) hoststyle.tar</br>
 ![host black](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/hoststylebla.png)</br>
 Space style black (black mode) space.tar</br>
 ![Space black](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/spaceblack.png)</br>
-
+Neo space black (black mode) neospace.tar</br>
+![Neospace black](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/neospacebl.png)</br>
+![Neospace black](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/neospaceblack.png)</br>
