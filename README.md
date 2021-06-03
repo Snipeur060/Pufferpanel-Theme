@@ -12,8 +12,6 @@ Host style white</br>
 ![host white](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/hosstylewh.png)</br>
 Host style black</br>
 ![host black](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/hoststylebla.png)</br>
-![alt text](http://url/to/img.png)</br>
-![alt text](http://url/to/img.png)</br>
-![alt text](http://url/to/img.png)</br>
-![alt text](http://url/to/img.png)</br>
-![alt text](http://url/to/img.png)</br>
+Space style black</br>
+![Space black](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/spaceblack.png)</br>
+
