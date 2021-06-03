@@ -1,7 +1,7 @@
 .console{ 
     color: !important; // change ici la couleur de l'ecriture dans la console (mode dark ou white)
 }
-theme--light.v-application{
+.theme--light.v-application{
     background:!important;
     background-repeat: no-repeat;
     background-position: center;
