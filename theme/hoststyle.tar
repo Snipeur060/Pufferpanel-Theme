@@ -1,0 +1,38 @@
+theme.json0000644000000000000000000000067013717033130011552 0ustar  rootroot{
+  "colors": {
+    "light": {
+      "primary": "#07a7e3",
+      "anchor": "#07a7e3",
+      "accent": "#65a5f8",
+      "info": "#2196f3",
+      "success": "#4caf50",
+      "warning": "#fb8c00",
+      "error": "#ff5252"
+    },
+    "dark": {
+      "primary": "#3b8db8",
+      "anchor": "#07a7e3",
+      "accent": "#65a5f8",
+      "info": "#2196f3",
+      "success": "#4caf50",
+      "warning": "#fb8c00",
+      "error": "#ff5252"
+    }
+  }
+}
+theme.css0000644000000000000000000000120414056101221011355 0ustar  rootroot.console{
+    color: #0addff!important;
+}
+.theme--light.v-application{
+    background: url("https://www.oxy-com.com/hs-fs/hubfs/Industrie%20stockfotos/Datacenter%20PreCooll.jpg?width=1080&name=Datacenter%20PreCooll.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255 255 255 / 87%);
+}
+.theme--dark.v-application{
+    background: url("https://www.oxy-com.com/hs-fs/hubfs/Industrie%20stockfotos/Datacenter%20PreCooll.jpg?width=1080&name=Datacenter%20PreCooll.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
