@@ -8,9 +8,9 @@ Better space black</br>
 ![Better space black](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/betterspacebla.png)</br>
 Blue console</br>
 ![Blue console](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/blueconsole.png)</br>
-
-![alt text](http://url/to/img.png)</br>
-![alt text](http://url/to/img.png)</br>
+Host style white
+![host white](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/hosstylewh.png)</br>
+![alt text](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/hosstylebla.png)</br>
 ![alt text](http://url/to/img.png)</br>
 ![alt text](http://url/to/img.png)</br>
 ![alt text](http://url/to/img.png)</br>
