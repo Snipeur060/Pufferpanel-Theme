@@ -1,0 +1,26 @@
+.console{ 
+    color: !important; // change ici la couleur de l'ecriture dans la console (mode dark ou white)
+}
+theme--light.v-application{
+    background:!important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: rgb(255 255 255 / 87%); //couleur de base du texte
+} 
+// ici c'est pour changer le background du panel en mode clair 
+.theme--dark.v-application{
+    background:url("")!important; //ou background-color:; et supprimer ce quio suit 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff; //couleur de base du texte 
+}
+// ici le nav en light et en dark
+.theme--dark.v-navigation-drawer {
+    background-color: ;
+}
+
+.theme--light.v-navigation-drawer{
+    background-color: ;
+}
