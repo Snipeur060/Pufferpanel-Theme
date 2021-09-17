@@ -1,6 +1,6 @@
 # Pufferpanel-Theme
 
-All theme is by Snipeur060 alias 💻снайпер060⌨#8273 / By Léo</br>
+All theme is by Snipeur060 alias Snipeur060dc#0161 / By Léo</br>
 
 Better space white (white mod) betterspace.tar</br>
 ![Better space white](https://github.com/Snipeur060/Pufferpanel-Theme/blob/main/betspacewh.png)</br>
